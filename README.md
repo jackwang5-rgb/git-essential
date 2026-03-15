@@ -1,4 +1,6 @@
-# git-essentials
+# Git Essentials /Git For Everybody
+
+This is a git training course lab.
 
 ## Deployment notes
     道可道非常道，名可名非常名。[道德經]

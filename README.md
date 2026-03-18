@@ -11,3 +11,5 @@ This is a git training course lab.
 ## How to us this repo notes
     菩提自性本來清靜，但用此心直了成佛。[六祖壇經] 
     我就是道路、真理、生命。            [約: 14:6]
+
+To say something else (master branch).
